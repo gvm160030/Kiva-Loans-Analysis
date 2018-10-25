@@ -1,0 +1,6 @@
+Kiva[[:space:]]Loan[[:space:]]Funding.twbx filter=lfs diff=lfs merge=lfs -text
+Kiva[[:space:]]Loan[[:space:]]Funding.twbx filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+Kiva[[:space:]]Loan[[:space:]]Funding.twbx filter=lfs diff=lfs merge=lfs -text
+DataSource/african_conflicts.csv filter=lfs diff=lfs merge=lfs -text
+DataSource/kiva_loans.csv filter=lfs diff=lfs merge=lfs -text
